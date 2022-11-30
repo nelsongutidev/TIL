@@ -8,6 +8,6 @@ Attempt to document daily what I learn
 ## 11/30/2022
 
 Three CSS tips for working with inconsistently sized logos (video by [Wes Bos](https://twitter.com/wesbos/status/1597598503886327808) )
-- aspect-ratio: 3/2;
-- object-fit: contain;
-- mix-blend-mode: color-burn
+- `aspect-ratio: 3/2`;
+- `object-fit: contain`;
+- `mix-blend-mode: color-burn`
