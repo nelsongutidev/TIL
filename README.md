@@ -11,3 +11,7 @@ Three CSS tips for working with inconsistently sized logos (video by [Wes Bos](h
 - `aspect-ratio: 3/2`;
 - `object-fit: contain`;
 - `mix-blend-mode: color-burn`
+
+## 12/01/2022
+
+`ngNativeValidate` [Angular Docs Reference](https://angular.io/api/forms/NgForm#native-dom-validation-ui) is in case you want to explicitly enable native DOM validation UI with Angular forms
