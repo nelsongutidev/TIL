@@ -15,3 +15,8 @@ Three CSS tips for working with inconsistently sized logos (video by [Wes Bos](h
 ## 12/01/2022
 
 `ngNativeValidate` [Angular Docs Reference](https://angular.io/api/forms/NgForm#native-dom-validation-ui) is in case you want to explicitly enable native DOM validation UI with Angular forms
+
+## 12/13/22
+
+Logical AND operator
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND_assignment
