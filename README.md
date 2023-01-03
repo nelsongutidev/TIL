@@ -16,7 +16,11 @@ Three CSS tips for working with inconsistently sized logos (video by [Wes Bos](h
 
 `ngNativeValidate` [Angular Docs Reference](https://angular.io/api/forms/NgForm#native-dom-validation-ui) is in case you want to explicitly enable native DOM validation UI with Angular forms
 
-## 12/13/22
+## 12/13/2022
 
 Logical AND operator
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND_assignment
+
+## 01/02/2023
+
+There is a [Battery Status Api](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API)
