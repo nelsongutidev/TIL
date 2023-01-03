@@ -27,4 +27,4 @@ There is a [Battery Status Api](https://developer.mozilla.org/en-US/docs/Web/API
 
 ## 01/03/2023
 
-Great video on [Tailwind Responsive Navbar](https://www.youtube.com/watch?v=V9v4GRMyzO4&ab_channel=DigitalOcean) by Chris Sev
+Great video on [Tailwind Responsive Navbar](https://www.youtube.com/watch?v=V9v4GRMyzO4&ab_channel=DigitalOcean) by [Chris Sev](https://github.com/chris-sev)
