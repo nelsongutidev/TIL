@@ -32,3 +32,7 @@ Great video on [Tailwind Responsive Navbar](https://www.youtube.com/watch?v=V9v4
 ## 01/27/2023
 
 [Router Testing Module](https://angular.io/api/router/testing/RouterTestingModule)
+
+## 01/30/2023
+
+[CombineLatest](https://www.learnrxjs.io/learn-rxjs/operators/combination/combinelatest) will not emit an initial value until each observable emits at least one value.
