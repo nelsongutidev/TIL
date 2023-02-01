@@ -36,3 +36,7 @@ Great video on [Tailwind Responsive Navbar](https://www.youtube.com/watch?v=V9v4
 ## 01/30/2023
 
 [CombineLatest](https://www.learnrxjs.io/learn-rxjs/operators/combination/combinelatest) will not emit an initial value until each observable emits at least one value.
+
+## 02/01/2023
+
+[scrollPositionRestoration](https://angular.io/api/router/InMemoryScrollingOptions#scrollPositionRestoration): Configures if the scroll position needs to be restored when navigating back.
