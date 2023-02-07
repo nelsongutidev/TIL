@@ -40,3 +40,7 @@ Great video on [Tailwind Responsive Navbar](https://www.youtube.com/watch?v=V9v4
 ## 02/01/2023
 
 [scrollPositionRestoration](https://angular.io/api/router/InMemoryScrollingOptions#scrollPositionRestoration): Configures if the scroll position needs to be restored when navigating back.
+
+## 06/01/2023
+
+[DebugTracingFeature] allows us to log router events to console if bootstrapping from component (https://angular.io/api/router/withDebugTracing)
