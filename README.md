@@ -43,7 +43,7 @@ Great video on [Tailwind Responsive Navbar](https://www.youtube.com/watch?v=V9v4
 
 ## 02/06/2023
 
-[DebugTracingFeature] allows us to log router events to console if bootstrapping from component (https://angular.io/api/router/withDebugTracing)
+[DebugTracingFeature](https://angular.io/api/router/withDebugTracing) allows us to log router events to console if bootstrapping from component 
 
 ## 02/15/2023
 
