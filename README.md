@@ -52,3 +52,7 @@ Great video about [Generics](https://twitter.com/mattpocockuk/status/16258386267
 ## 02/22/2023
 
 To update to the next beta or pre-release version, use the --next option. [ng-update](https://angular.io/cli/update)
+
+## 02/23/2023
+
+Stuff around [bash profile](open -a TextEdit.app ~/.bash_profile)
