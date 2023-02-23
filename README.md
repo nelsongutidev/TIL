@@ -51,4 +51,4 @@ Great video about [Generics](https://twitter.com/mattpocockuk/status/16258386267
 
 ## 02/22/2023
 
---next flag for angular releases
+To update to the next beta or pre-release version, use the --next option. [ng-update](https://angular.io/cli/update)
