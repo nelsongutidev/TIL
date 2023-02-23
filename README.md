@@ -48,3 +48,7 @@ Great video on [Tailwind Responsive Navbar](https://www.youtube.com/watch?v=V9v4
 ## 02/15/2023
 
 Great video about [Generics](https://twitter.com/mattpocockuk/status/1625838626742435842)
+
+## 02/22/2023
+
+--next flag for angular releases
