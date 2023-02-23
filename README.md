@@ -55,4 +55,4 @@ To update to the next beta or pre-release version, use the --next option. [ng-up
 
 ## 02/23/2023
 
-Stuff around [bash profile](open -a TextEdit.app ~/.bash_profile)
+Stuff around [bash profile](https://medium.com/macoclock/how-to-create-delete-update-bash-profile-in-macos-5f99999ed1e7)
