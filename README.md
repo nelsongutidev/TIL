@@ -1,4 +1,5 @@
 # TIL
+
 Attempt to document daily what I learn
 
 ## 11/29/2022
@@ -8,6 +9,7 @@ Attempt to document daily what I learn
 ## 11/30/2022
 
 Three CSS tips for working with inconsistently sized logos (video by [Wes Bos](https://twitter.com/wesbos/status/1597598503886327808) )
+
 - `aspect-ratio: 3/2`;
 - `object-fit: contain`;
 - `mix-blend-mode: color-burn`
@@ -43,7 +45,7 @@ Great video on [Tailwind Responsive Navbar](https://www.youtube.com/watch?v=V9v4
 
 ## 02/06/2023
 
-[DebugTracingFeature](https://angular.io/api/router/withDebugTracing) allows us to log router events to console if bootstrapping from component 
+[DebugTracingFeature](https://angular.io/api/router/withDebugTracing) allows us to log router events to console if bootstrapping from component
 
 ## 02/15/2023
 
@@ -56,3 +58,7 @@ To update to the next beta or pre-release version, use the --next option. [ng-up
 ## 02/23/2023
 
 Stuff around [bash profile](https://medium.com/macoclock/how-to-create-delete-update-bash-profile-in-macos-5f99999ed1e7)
+
+## 04/25/2023
+
+exportAs property in directives https://angular.io/api/core/Directive#exportAs
